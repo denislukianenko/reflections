@@ -1,0 +1,3 @@
+When I initalize the repo git createa its .git folder, sets name for repo, description, creates settings files, folder structure representing hooks, refs, brunches
+
+Staging areag gives us an opportunity to choose files to commit.
