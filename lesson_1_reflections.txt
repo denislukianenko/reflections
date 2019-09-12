@@ -4,14 +4,7 @@ tried it without -u and its better.
 I've already had problem of need for old versions of files, when working on the game project with friend (Dropbox helped).
 Sometimes you want to look at some older code, sometimes you broke something and does not know about it, 
 sometimes you may have delited something which you need to look at now.
-
-When we manually choose the commit we can logically define and describe changes, its "stagin" for our brain and project, 
-makes us better feel amount of work done.
-
-Some systems like google docs are one-file-centerd. Docs file does not depend on other files, 
-while code file is a thing which works thorugh connections/in relations with other files, 
-then per commit changes combining changes in few files are more useful.
-
 Already answered ↑
+Hi, Denis!
 
 I'd like to use the Git for my any of my next big coding project, wether it's site or lab work for university
